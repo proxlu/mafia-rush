@@ -1,2 +1,2 @@
 # mafia-rush
-RPG de máfia.
+RPG da máfia italiana.
