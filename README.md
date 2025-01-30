@@ -72,7 +72,7 @@ Bem-vindo ao **Mafia Rush**, um RPG único onde suas escolhas moldam o destino d
 ## **Citações Inspiradoras**
 
 - *"A busca por dar significado às nossas ações é uma tolice, porque a resposta para todas elas termina no instinto."* – **Miguel**  
-- *"As mafias são o veneno deste país e, como todo veneno, para serem combatidas, é preciso mais veneno."* – **Dominic**  
+- *"As máfias são o veneno deste país e, como todo veneno, para serem combatidas, é preciso mais veneno."* – **Dominic**  
 
 ---
 
